@@ -1,0 +1,6 @@
+13:40:29 **** Incremental Build of configuration Default for project RAT-source-code ****
+make all 
+make: *** No rule to make target `all'.  Stop.
+
+13:40:29 Build Finished (took 76ms)
+
