@@ -12,7 +12,7 @@ void SetWindowControls(HWND hwnd)
 	MoveWindow(GetDlgItem(hwnd, IDC_INFORMATIOND), 0,25, rc.right - 10, rc.bottom - 55, TRUE);
 	MoveWindow(GetDlgItem(hwnd, IDC_LOGS), 0,25, rc.right - 10, rc.bottom - 55, TRUE);
 	MoveWindow(GetDlgItem(hwnd, IDC_MAIN_STATUS), 0,rc.bottom - 20, rc.right, 20, TRUE);
-	//HOLA QUE ASE
+	//HOLA QUE ASE otro
 	return;
 }
 HWND hStatus;
